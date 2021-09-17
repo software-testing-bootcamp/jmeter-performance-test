@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=_WWb6D4lmEw&t=7s
 
 **Requirements:**
 
-* Java JRE or JDK Installation
+* Java JRE or JDK Installation (Requires Java 8+)
 
 https://www.oracle.com/tr/java/technologies/javase-downloads.html 
 
